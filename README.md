@@ -1,4 +1,4 @@
- ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.leucotron.com.br%2Fsaiba-como-a-tecnologia-pode-impulsionar-a-capacidade-produtiva%2F&psig=AOvVaw3o4BToYNlp5y9iLll4IQfE&ust=1614185781960000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjmp-W8gO8CFQAAAAAdAAAAABAb)
+ ![](https://blog.leucotron.com.br/wp-content/uploads/2017/07/saiba-como-a-tecnologia-pode-impulsionar-a-capacidade-produtiva.jpeg)
 
 # Hi! I'm Yuri Dias
 
