@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi! I'm Yuri Dias </h1>        
-
+<hr>
 <h2> About me </h2>
 
 I'm a Python & Java Full Stack in formation
@@ -10,7 +10,7 @@ I'm a Python & Java Full Stack in formation
 <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1616584654~hmac=66088a18b58dbefaf4f930629b81364d" width=40 height=40>
 </div>
 
-
+<hr>
 
 > [My Linkedin](https://www.linkedin.com/in/yuri-dias-soares/)
 
