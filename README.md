@@ -1,5 +1,5 @@
 
-<h1> Hi! I'm Yuri Dias </h1>        
+<h1 align="center"> Hi! I'm Yuri Dias </h1>        
 
 ### About me
 
