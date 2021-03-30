@@ -3,8 +3,9 @@
 
 <h2 align="center"> About me </h2>
 <div style="display:inline" align="center">
-  <p>I'm a Dev Python & Java Web Full Stack in formation (Click on the icons below to see my projects)</p><br>
+  <p>I'm a Dev Python & Java Web Full Stack in formation (Click on the icons below to see my projects)</p>
   :point_down: :point_down:
+  <br>
   <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=java"><img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1617111548~hmac=2f6d70f1d26b9173a16206b80211a9d7" width=35px height=35px></a>
   <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=python"><img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1617112178~hmac=8e72738053b1f3109404e331e6c20468" width=30px height=30px></a>
 </div>
