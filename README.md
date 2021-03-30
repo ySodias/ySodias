@@ -1,5 +1,5 @@
 
-<basefont size="2"> <p align="center"> Hi! I'm Yuri Dias </p></basefont>        
+<basefont size="14"> <p align="center"> Hi! I'm Yuri Dias </p></basefont>        
 <hr>
 <p align="center"> About me </p>
 <div>
