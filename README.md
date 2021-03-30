@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi! I'm Yuri Dias </h1>        
 <hr>
-<h2 align="center"> About me </h2>
+<p align="center"> About me </p>
 <div>
 <p align="center">I'm a Python & Java Full Stack in formation</p><br>
 <p>After my first learning with technology, I started to love this area. Now I try research methods to unify my knowledge of hardware and software.</p>
