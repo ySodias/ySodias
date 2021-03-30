@@ -14,7 +14,7 @@
 
 <hr>
 
-> [My Linkedin](https://www.linkedin.com/in/yuri-dias-soares/)
+ <a href="https://www.linkedin.com/in/yuri-dias-soares/"><img src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1617143915~hmac=e76f930dc4d196bc2d118ce383239896" width=30px height=30px></a>
 
 > Adress - ysodias@gmail.com
 > 
