@@ -6,8 +6,8 @@
 I'm a Python & Java Full Stack in formation
 
 <div style="display:inline">
- <div width=30px height=30px>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1617111548~hmac=2f6d70f1d26b9173a16206b80211a9d7">
+ <div >
+  <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1617111548~hmac=2f6d70f1d26b9173a16206b80211a9d7" width=30px height=30px hrfe="https://github.com/ySodias?tab=repositories&q=&type=&language=java">
   <a hrfe="https://github.com/ySodias?tab=repositories&q=&type=&language=java">
  </div>
 
