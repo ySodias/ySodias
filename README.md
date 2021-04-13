@@ -15,7 +15,7 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?@ySodias=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiySodias=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 > [Linkedin](https://www.linkedin.com/in/yuri-dias-soares/)
 > 
