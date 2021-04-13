@@ -11,7 +11,7 @@
 <br>
 <p>After my first learning with technology, I started to love this area. Now I try research methods to unify my knowledge of hardware and software.</p>
 
-[! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api ? Username = ySodias )] (https://github.com/anuraghazra/github-readme-stats)
+! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = ySodias & show_icons = true & theme = radical )
 
 <hr>
 
