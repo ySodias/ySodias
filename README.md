@@ -14,7 +14,7 @@
 
 
 <hr>
-! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = ySodias & show_icons = true & theme = radical )
+! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ?ySodias = anuraghazra  & show_icons = true & theme = radical )
 
 > [Linkedin](https://www.linkedin.com/in/yuri-dias-soares/)
 > 
