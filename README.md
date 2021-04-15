@@ -15,6 +15,8 @@
 
 <hr>
 
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ySodias&show_icons=true)
+
 > [Linkedin](https://www.linkedin.com/in/yuri-dias-soares/)
 > 
 > Adress - ysodias@gmail.com
