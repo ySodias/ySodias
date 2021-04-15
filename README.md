@@ -15,7 +15,7 @@
 
 <hr>
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ySodias&show_icons=true&theme=merko)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ySodias&show_icons=true&theme=tokyonight)
 
 
 
