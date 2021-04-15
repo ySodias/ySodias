@@ -15,7 +15,7 @@
 
 <hr>
 <div align=”center”> 
- ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ySodias&show_icons=true&theme=tokyonight)
+ [![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ySodias&show_icons=true&theme=tokyonight)]
 
 </div>
 
