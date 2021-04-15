@@ -14,9 +14,8 @@
 
 
 <hr>
-
 <a href="https://github.com/ySodias/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-five-liart.vercel.app/api/pin/?username=ySodias&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ySodias&repo=github-readme-stats" />
 </a>
 
 > [Linkedin](https://www.linkedin.com/in/yuri-dias-soares/)
