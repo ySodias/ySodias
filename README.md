@@ -18,9 +18,6 @@
 <a href="https://github.com/ySodias/github-readme-stats">
   <img align="center" src="https://github-readme-stats-five-liart.vercel.app/api/pin/?username=ySodias&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/ySodias/convoychat">
-  <img align="center" src="github-readme-stats-five-liart.vercel.app/api/pin/?username=ySodias&repo=convoychat" />
-</a>
 
 > [Linkedin](https://www.linkedin.com/in/yuri-dias-soares/)
 > 
