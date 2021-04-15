@@ -14,10 +14,9 @@
 
 
 <hr>
-<div align=”center”> 
- [![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ySodias&show_icons=true&theme=tokyonight)]
 
-</div>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ySodias&show_icons=true&theme=tokyonight)
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ySodias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > [Linkedin](https://www.linkedin.com/in/yuri-dias-soares/)
 > 
