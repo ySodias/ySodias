@@ -14,10 +14,10 @@
 
 
 <hr>
-
+<p align=center>
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ySodias&show_icons=true&theme=tokyonight)
 
-
+</p>
 
 > [Linkedin](https://www.linkedin.com/in/yuri-dias-soares/)
 > 
