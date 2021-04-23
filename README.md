@@ -8,15 +8,6 @@
   <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=java"><img src="/assets/img/java.png" width=35px height=35px></a>
   <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=html&sort="><img src="/assets/img/designer-de-web.png" width=33px height=33px></a>
 </div>
-<h2 align="center"> Tech Skills </h2>
-<p id="status">Partes do projeto: <br><br>
- • Python: <br> <img src="https://img.shields.io/badge/python-aprendendo-brightgreen"/><br>
- • Flask: <br> <img src="https://img.shields.io/badge/swagger-concluido-green"/><br>
- • Java: <br><img src="https://img.shields.io/badge/angular-incompleto-red"/><br>
- • Spring: <br><img src="https://img.shields.io/badge/angular-incompleto-red"/><br>
- • Web: <br><img src="https://img.shields.io/badge/angular-incompleto-red"/><br>
- • Angular: <br><img src="https://img.shields.io/badge/angular-incompleto-red"/><br>
-</p>
 <br>
 <p>After my first learning with technology, I started to love this area. Now I try research methods to unify my knowledge of hardware and software.</p>
 
