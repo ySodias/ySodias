@@ -4,7 +4,7 @@
 <div style="display:inline" align="center">
   <p>I'm a Dev Python & Java Web Full Stack in formation <i>(Click on the icons below to see my projects)</i></p>
   <br>
-  <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=java"><img src="/assets/python.png" width=35px height=35px></a>
+  <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=java"><img src="/assets/img/python.png" width=35px height=35px></a>
   <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=python"><img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1617112178~hmac=8e72738053b1f3109404e331e6c20468" width=30px height=30px></a>
 </div>
 <br>
