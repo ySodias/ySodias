@@ -6,7 +6,7 @@
   <br>
   <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=python"><img src="/assets/img/python.png" width=30px height=30px></a>
   <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=java"><img src="/assets/img/java.png" width=35px height=35px></a>
-  <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=html&sort="><img src="/assets/img/designer-de-web.png" width=35px height=35px></a>
+  <a href="https://github.com/ySodias?tab=repositories&q=&type=&language=html&sort="><img src="/assets/img/designer-de-web.png" width=33px height=33px></a>
 </div>
 <br>
 <p>After my first learning with technology, I started to love this area. Now I try research methods to unify my knowledge of hardware and software.</p>
